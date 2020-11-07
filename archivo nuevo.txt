@@ -1,2 +1,6 @@
 hola archivo nuevo
+
 que bien... conflicto
+
+variable =5
+
